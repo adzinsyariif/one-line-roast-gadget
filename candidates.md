@@ -41,3 +41,9 @@ Judge criteria, in order: (1) clearly roasts a daily gadget/app, (2) actually fu
 It wins on the judge's order: it names a daily gadget outright, the joke lands on first read (the watch praising you for doing nothing), it has a concrete, specific detail (step counting, couch-to-fridge trips), and it is tightly worded with a clean setup–punchline shape. Its one weakness is freshness — the fridge-steps gag is familiar — so the final line should sharpen the detail rather than repeat the meme plainly: make the number exact and the reward absurd, so the watch sounds like an overenthusiastic coach praising a commute to the snacks.
 
 **Picked line (draft):** "My smartwatch congratulates me for 10,000 steps a day, nine thousand of which are just the walk from the couch to the fridge."
+
+## Revision (round 2)
+
+"Congratulates me" is flat — a watch does more than congratulate, it celebrates with badges, fireworks and confetti animations. "Throws me a party" is a funnier, more specific image of that overenthusiastic praise, and it sharpens the freshness by making the watch the butt of the joke rather than just a narrator. Final line:
+
+**"My smartwatch throws me a party for 10,000 steps a day, nine thousand of which are just the walk from the couch to the fridge."**
